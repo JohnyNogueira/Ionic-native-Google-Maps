@@ -4,7 +4,7 @@
 
 Enter the following commands in the terminal
  
-    $ git clone
+    $ git clone https://github.com/JohnyNogueira/Ionic-native-Google-Maps.git
     cd Ionic-native-Google-Maps 
 
 Add platform android@3.7.1 by compatibility of the plugin
